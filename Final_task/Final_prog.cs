@@ -23,6 +23,7 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+
 NewArray();
 PrintArray(arrayN);
 
